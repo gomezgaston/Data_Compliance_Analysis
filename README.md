@@ -1,7 +1,7 @@
 # Data Compliance
 
 
-![Data-Compliance](images\data-compliance.jpg)
+![Data-Compliance](images/data-compliance.jpg)
 
 La importancia del cumplimiento normativo de datos, también conocido como data compliance, en las empresas es fundamental en el panorama actual, donde la información se ha convertido en uno de los activos más valiosos. El data compliance se refiere al conjunto de prácticas y medidas que una organización adopta para garantizar que la recopilación, almacenamiento, procesamiento y transmisión de datos cumplan con las leyes y regulaciones aplicables.
 
@@ -38,9 +38,9 @@ Para llevar a cabo el análisis correspondiente a esta ley, se empleó informaci
 
 # Distribución de Multas en Países según el Recuento y Monto Total
 
-![imagen_1](images\sanciones-por-pais.png)
+![imagen_1](images/sanciones-por-pais.png)
 
-![Imagen_2](images\acumulacion-de-multas-por-pais.png)
+![Imagen_2](images/acumulacion-de-multas-por-pais.png)
 
 En este gráfico se pueden observar los 10 países que recibieron más multas. El primer punto que destaca es que España acumula la mayor cantidad de multas, llegando casi a 800, lo que representa más del doble que su seguidor más cercano. Sin embargo, cuando se realiza una agrupación por el monto total de la multa aplicada, encontramos que Irlanda encabeza la lista, al mismo tiempo que no es uno de los países que más multas individuales ha obtenido.
 
@@ -48,8 +48,8 @@ Este comportamiento lo atribuimos a varios factores que se hacen evidentes al ob
 
 ---
 
-![Imagen_3](images\Industrias-españolas-multadas.png)
-![Imagen_4](images\Industrias-irlandesas-multadas.png)
+![Imagen_3](images/Industrias-españolas-multadas.png)
+![Imagen_4](images/Industrias-irlandesas-multadas.png)
 
 La media de las sanciones aplicadas en España no excede los 100.000 euros y, por norma general, se imponen debido a que la empresa en cuestión no tiene las bases legales para procesar los datos que ha recogido. 
 
@@ -68,12 +68,12 @@ El Reglamento General de Protección de Datos (GDPR) establece principios fundam
 
 Por otro lado, **el Artículo 32** establece medidas de seguridad que las organizaciones deben adoptar para proteger los datos personales. Esto incluye la seguridad del tratamiento, la evaluación del riesgo, la pseudonimización y cifrado, la garantía de confidencialidad, integridad, disponibilidad y resiliencia de los sistemas, la restauración eficiente de la disponibilidad de datos, así como la verificación y evaluación regulares, y la formalización por escrito de acuerdos con encargados del tratamiento. En conjunto, estos elementos buscan asegurar un procesamiento de datos seguro y conforme a los principios del GDPR.
 
-![Imagen_5](images\normativa-mas-afectada.png)
+![Imagen_5](images/normativa-mas-afectada.png)
 
 
 Se observa que la mayoría de las multas se concentran en violaciones a los principios fundamentales protegidos por el GDPR, el incumplimiento de las obligaciones de las empresas al proteger los datos y las fallas al obtenerlos y procesarlos. 
 
-![Imagen_6](images\multas.png)
+![Imagen_6](images/multas.png)
 
 Cuando analizamos las multas más cuantiosas impuestas, observamos que estas se fundamentan en varios artículos del GDPR. No obstante, llama la atención un valor atípico: la sanción más elevada tiene su base en el Artículo 46, inciso 1, del GDPR, el cual trata sobre las transferencias de datos personales a terceros países u organizaciones internacionales. A continuación, se presenta un resumen de dicho artículo:
 
@@ -95,16 +95,16 @@ En este caso, Meta fue sancionada por violar la privacidad de sus usuarios y por
 
 Si comparamos el monto de esta única sanción con el resto, observamos lo desorbitante de la multa. Aunque un posible motivo de esta sanción podría ser el carácter ejemplificativo que se le atribuye, dado que estos casos prácticamente carecen de precedentes. Es posible que se esté buscando establecer jurisprudencia sobre el caso en cuestión.
 
-![Imagen_7](images\montos-de-normativa.png)
+![Imagen_7](images/montos-de-normativa.png)
 
 [Link a nota sobre el caso](https://www.forbes.com.mx/irlanda-multa-meta-1200-millones-infringir-normativa-privacidad-datos/)
 
 
 # Industrias más Sancionadas
 
-![Imagen_8](images\multas-por-actividad.png)
+![Imagen_8](images/multas-por-actividad.png)
 
-![Imagen_9](images\sanciones-por-actividad.png)
+![Imagen_9](images/sanciones-por-actividad.png)
 
 Aunque a estas altura se podría llegar a predecir cual es la indutria mas sancionada, siendo estas la que compone telecomunicaciones, media y broadcasting, cuando la medicion es por la cuantia de la multa, no es menor el recuento que se encuentra en 
 
