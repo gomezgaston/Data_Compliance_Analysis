@@ -4,6 +4,7 @@ import pandas as pd
 import json
 import numpy as np
 from bs4 import BeautifulSoup
+import re
 
 #aux functions
 def country_parser(column):
@@ -18,6 +19,32 @@ def link_parser(column):
         return clean_value['href']
     else:
         return "No Link"
+
+
+def extraer_nombre_empresa(descripcion):
+    match = re.search(r'“([^”]*)”', descripcion)
+    
+    if match:
+        return match.group(1)
+    else:
+        cleaned_description = ''.join(c for c in descripcion if c.isupper() or c.isspace())
+        
+        cleaned_description = re.sub(r'PESOS.*', '', cleaned_description)
+        
+        cleaned_description = re.sub(r'^A\s', '', cleaned_description)
+        
+        return cleaned_description
+    
+    
+def limpiar_empresa(descripcion):
+    palabras_a_eliminar = ['SA', 'SAS', 'S.A.', 'S.A', 'S.A.S', 'S.R.L', 'SRL', 'SOCIEDAD ANONIMA', 'SAU']
+    
+    for palabra in palabras_a_eliminar:
+        descripcion = re.sub(rf'\b{re.escape(palabra)}\b\.?', '', descripcion)
+
+    descripcion = re.sub(r'\s+', ' ', descripcion).strip()
+
+    return descripcion
     
 #get data from source
 response = requests.get('https://www.enforcementtracker.com/data.json')
@@ -85,7 +112,30 @@ df['Monto'] = df['Monto'].str.replace('.', '').str.replace(',', '.')
 df['Estado'] = df['Estado'].str.capitalize().str.strip()
 
 
-df.to_csv("clean_data_arg.csv")
+df['Empresa'] = df['Descripcion'].apply(extraer_nombre_empresa)
+
+df['Empresa'] = df['Empresa'].apply(limpiar_empresa)
+
+df['Empresa'] = df['Empresa'].replace({"ADT SECURITY SERVICE" : "ADT SECURITY SERVICES",
+                                               "ADT SECURITY SERVICES L N MIL UNO" : "ADT SECURITY SERVICES",
+                                               "BANCO ITAÚ ARGENTINA" : "BANCO ITAU ARGENTINA",
+                                               "BBVA BANCO FRANCÉS" : "BBVA BANCO FRANCES",
+                                               "CENCOSUD CUIT N": "CENCOSUD",
+                                               "TELECOM PERSONAL": "TELECOM ARGENTINA",
+                                               "TELEFÓNICA MÓVILES ARGENTINA SOCIEDAD ANÓNIMA" : "TELEFÓNICA MÓVILES ARGENTINA",
+                                               "TELEFÓNICA MÓVILES ARGENTINA VEINTICINCO MIL" : "TELEFÓNICA MÓVILES ARGENTINA",
+                                               "SUCURSAL DE CITIBANK NA REPUBLICA ARGENTINA" : "SUCURSAL DE CITIBANK N.A REPUBLICA ARGENTINA",
+                                               "TELEFONICA MOVILES ARGENTINA" : "TELEFONICA MÓVILES ARGENTINA"})
+
+
+
+
+#Para ver el nombre de las empresas simplemente comente esta linea
+df['Empresa'], empresa_numerica = pd.factorize(df['Empresa'])
+
+df.drop(columns=["Descripcion"], inplace=True)
 
 
 df.to_csv("clean_data_arg.csv")
+
+
