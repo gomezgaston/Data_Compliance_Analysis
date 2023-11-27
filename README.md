@@ -25,7 +25,7 @@ El Reglamento General de Protección de Datos (GDPR, por sus siglas en inglés) 
 Con el propósito de proporcionar información actualizada sobre las multas impuestas a personas físicas y jurídicas que forman parte de la Unión Europea, el GDPR ofrece un seguimiento detallado a través del sitio web **https://www.enforcementtracker.com/**. Para llevar a cabo el análisis correspondiente, se extrajo información directamente de esta plataforma web.
 
 
-# Distribución de Multas en Países según el Recuento y Monto Total
+# Distribución de Multas en Países según el Recuento y Monto Total de sanciones
 
 ![imagen_1](images/sanciones-por-pais.png)
 
