@@ -92,6 +92,8 @@ Si comparamos el monto de esta única sanción con el resto, observamos lo desor
 
 ![Imagen_6.5](images/empresas-mas-afectadas.png)
 
+Vemos que 
+
 
 
 # Industrias más Sancionadas
@@ -152,7 +154,7 @@ En estos gráficos, observamos el monto que representan las multas aplicadas a l
 
 - Entidades Bancarias
 
-- Entidades Financieras
+- Entidades Financieras de otras indoles
 
 
 ## ¿A que se debe esto?
@@ -161,9 +163,14 @@ La Agencia de Acceso a la Información Pública (AAIP) establece dos tipos difer
 
 Esta distinción cobra relevancia y ayuda a entender por qué ciertas empresas son más frecuentemente sancionadas por la AAIP. En muchos de estos casos, los expedientes compartían una similitud: la mayoría de las empresas fueron inicialmente sancionadas por violar la ley "No Llame". Esto ocurría cuando los usuarios tenían deudas con las empresas. Además, estas compañías utilizaban empresas tercerizadas para llevar a cabo las llamadas rutinarias, en las cuales la empresa principal cedía los datos personales de los usuarios para contactarlos, constituyendose la infracción grave.
 
+Los montos mencionados se conocen como el "capital" de las demandas. La primera impresión que se percibe es que, dada la magnitud de las empresas sancionadas, los montos podrían interpretarse como bajos. Sin embargo, es crucial recordar que al emitir una sentencia definitiva, a este capital se le suman los intereses que se acumulan con el tiempo, los cuales suelen duplicar e incluso triplicar el monto original según la normativa general.
+
 # Cantidad de Multas a Través del Tiempo
 
 ![Imagen_13](images/casos-por-mes-argenitna.png)
+
+
+En este gráfico, observamos la tendencia en la cantidad de multas a lo largo del tiempo. La Agencia de Acceso a la Información Pública (AAIP) digitaliza todos sus expedientes en el año 2018, de manera que nuestros datos comienzan en ese año. 
 
 
 
