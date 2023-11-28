@@ -90,32 +90,23 @@ url = "https://sheets.googleapis.com/v4/spreadsheets/1ssr92BY3h4nBTEaCsdaXTsZByr
 
 
 response = requests.get(url)
-
 data = json.loads(response.text)
 
 df = pd.DataFrame(data["values"], columns=["Tipo", "Numero", "Descripcion", "Categoria", "Estado", "Texto", "Misc", "Fecha"])
-
 df.drop(columns=["Misc"], inplace=True)
-
 df = df[df.iloc[:, 3] == 'Datos Personales']
-
 df = df[df.iloc[:, 0] == 'Resolución']
-
 df = df[df.iloc[:, 2].str.startswith("Apl")].reset_index()
-
 df['Monto'] = df['Descripcion'].astype(str).str.extract(r'\$\s*([0-9,.]+)')
-
 df.dropna(inplace=True)
 
-df['Monto'] = df['Monto'].str.replace('.', '').str.replace(',', '.') 
 
+df['Monto'] = df['Monto'].str.replace('.', '').str.replace(',', '.') 
 df['Estado'] = df['Estado'].str.capitalize().str.strip()
 
 
 df['Empresa'] = df['Descripcion'].apply(extraer_nombre_empresa)
-
 df['Empresa'] = df['Empresa'].apply(limpiar_empresa)
-
 df['Empresa'] = df['Empresa'].replace({"ADT SECURITY SERVICE" : "ADT SECURITY SERVICES",
                                                "ADT SECURITY SERVICES L N MIL UNO" : "ADT SECURITY SERVICES",
                                                "BANCO ITAÚ ARGENTINA" : "BANCO ITAU ARGENTINA",
@@ -125,13 +116,14 @@ df['Empresa'] = df['Empresa'].replace({"ADT SECURITY SERVICE" : "ADT SECURITY SE
                                                "TELEFÓNICA MÓVILES ARGENTINA SOCIEDAD ANÓNIMA" : "TELEFÓNICA MÓVILES ARGENTINA",
                                                "TELEFÓNICA MÓVILES ARGENTINA VEINTICINCO MIL" : "TELEFÓNICA MÓVILES ARGENTINA",
                                                "SUCURSAL DE CITIBANK NA REPUBLICA ARGENTINA" : "SUCURSAL DE CITIBANK N.A REPUBLICA ARGENTINA",
-                                               "TELEFONICA MOVILES ARGENTINA" : "TELEFONICA MÓVILES ARGENTINA"})
+                                               "TELEFONICA MÓVILES ARGENTINA" : "TELEFONICA MOVILES ARGENTINA",
+                                               "TELEFÓNICA MÓVILES ARGENTINA" : "TELEFONICA MOVILES ARGENTINA"})
 
 
 
 
 #Para ver el nombre de las empresas simplemente comente esta linea
-df['Empresa'], empresa_numerica = pd.factorize(df['Empresa'])
+#df['Empresa'], empresa_numerica = pd.factorize(df['Empresa'])
 
 df.drop(columns=["Descripcion"], inplace=True)
 

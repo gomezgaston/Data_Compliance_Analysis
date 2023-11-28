@@ -1,231 +1,231 @@
 ,index,Tipo,Numero,Categoria,Estado,Texto,Fecha,Monto,Empresa
-0,928,Resolución,17/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-17-apn-aaip.pdf,12/02/2019,3000000.00,0
-1,929,Resolución,18/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-18-apn-aaip.pdf,12/02/2019,80000.00,1
-2,930,Resolución,19/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-19-apn-aaip.pdf,12/02/2019,50000.00,2
-3,931,Resolución,20/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-20-apn-aaip.pdf,12/02/2019,25100.00,2
-4,932,Resolución,21/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-21-apn-aaip.pdf,12/02/2019,3000000.00,0
-5,933,Resolución,39/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-39-apn-aaip.pdf,07/03/2019,50000,3
-6,934,Resolución,52/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-52-apn-aaip.pdf,09/04/2019,375015.00,4
-7,935,Resolución,53/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-53-apn-aaip.pdf,11/04/2019,50000.00,5
-8,936,Resolución,54/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-54-apn-aaip.pdf,11/04/2019,651026.00,6
-9,937,Resolución,55/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-55-apn-aaip.pdf,15/04/2019,3000000.00,7
-10,938,Resolución,56/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-56-apn-aaip.pdf,15/04/2019,3000000.00,1
-11,939,Resolución,57/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-57-apn-aaip.pdf,15/04/2019,3000000.00,7
-12,940,Resolución,60/2019,Datos Personales,Firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-60-apn-aaip.pdf,22/04/2019,30100.00,8
-13,941,Resolución,67/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-67-apn-aaip.pdf,26/04/2019,3000000.00,9
-14,942,Resolución,89/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-89-apn-aaip.pdf,06/06/2019,105000.00,10
-15,976,Resolución,59/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-59-apn-aaip.pdf,09/08/2018,3000000.00,7
-16,977,Resolución,60/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-60-apn-aaip.pdf,09/08/2018,3000000.00,7
-17,978,Resolución,61/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-61-apn-aaip.pdf,09/08/2018,510020.00,11
-18,979,Resolución,62/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-62-apn-aaip.pdf,09/08/2018,3000000.00,0
-19,980,Resolución,63/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-63-apn-aaip.pdf,09/08/2018,3000000.00,7
-20,981,Resolución,64/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-64-apn-aaip.pdf,09/08/2018,3000000.00,12
-21,982,Resolución,65/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-65-apn-aaip.pdf,09/08/2018,3000000.00,7
-22,983,Resolución,66/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-66-apn-aaip.pdf,09/08/2018,3000000.00,1
-23,984,Resolución,67/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-67-apn-aaip.pdf,09/08/2018,3000000.00,13
-24,986,Resolución,69/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-69-apn-aaip.pdf,10/08/2018,3000000.00,1
-25,991,Resolución,79/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-79-apn-aaip.pdf,17/08/2018,3000000,14
-26,992,Resolución,80/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-80-apn-aaip.pdf,17/08/2018,3000000,14
-27,997,Resolución,89/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-89-apn-aaip.pdf,31/08/2018,90000.00,15
-28,999,Resolución,91/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-91-apn-aaip.pdf,31/08/2018,70000.00,16
-29,1000,Resolución,92/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-92-apn-aaip.pdf,31/08/2018,642300.00,17
-30,1001,Resolución,93/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-93-apn-aaip.pdf,31/08/2018,25100.00,18
-31,1006,Resolución,102/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-102-apn-aaip.pdf,07/09/2018,50000.00,19
-32,1007,Resolución,103/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-103-apn-aaip.pdf,07/09/2018,60200.00,20
-33,1008,Resolución,105/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-105-apn-aaip.pdf,11/09/2018,3000000.00,1
-34,1009,Resolución,106/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-106-apn-aaip.pdf,13/09/2018,3000000.00,1
-35,1010,Resolución,107/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-107-apn-aaip.pdf,13/09/2018,65000.00,21
-36,1011,Resolución,108/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-108-apn-aaip.pdf,13/09/2018,3000000.00,0
-37,1012,Resolución,109/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-109-apn-aaip.pdf,13/09/2018,3000000.00,7
-38,1013,Resolución,110/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-110-apn-aaip.pdf,14/09/2018,3000000.00,7
-39,1014,Resolución,114/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-114-apn-aaip.pdf,20/09/2018,3000000.00,1
-40,1015,Resolución,115/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-115-apn-aaip.pdf,20/09/2018,80000.00,22
-41,1016,Resolución,116/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-116-apn-aaip.pdf,20/09/2018,3000000.00,7
-42,1017,Resolución,118/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-118-apn-aaip.pdf,20/09/2018,3000000.00,7
-43,1018,Resolución,122/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-122-apn-aaip.pdf,01/10/2018,3000000.00,7
-44,1019,Resolución,130/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-130-apn-aaip.pdf,10/10/2018,475019.00,23
-45,1020,Resolución,138/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-138-apn-aaip.pdf,08/11/2018,80000.00,24
-46,1021,Resolución,139/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-139-apn-aaip.pdf,09/11/2018,537100.00,25
-47,1022,Resolución,140/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-140-apn-aaip.pdf,09/11/2018,65000.00,14
-48,1023,Resolución,141/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-141-apn-aaip.pdf,09/11/2018,617200.00,26
-49,1024,Resolución,144/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-144-apn-aaip.pdf,15/11/2018,80000,12
-50,1025,Resolución,152/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-152-apn-aaip.pdf,26/11/2018,130200.00,27
-51,1027,Resolución,155/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-155-apn-aaip.pdf,28/11/2018,105000.00,7
-52,1028,Resolución,156/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-156-apn-aaip.pdf,29/11/2018,662600.00,28
-53,1029,Resolución,157/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-157-apn-aaip.pdf,29/11/2018,60200.00,20
-54,1030,Resolución,163/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-163-apn-aaip.pdf,13/12/2018,65000.00,29
-55,1031,Resolución,164/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-164-apn-aaip.pdf,13/12/2018,50000.00,30
-56,1032,Resolución,165/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-165-apn-aaip.pdf,13/12/2018,60000,31
-57,1033,Resolución,169/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-169-apn-aaip.pdf,20/12/2018,70000.00,32
-58,1034,Resolución,170/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-170-apn-aaip.pdf,20/12/2018,80000.00,1
-59,1035,Resolución,171/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-171-apn-aaip.pdf,20/12/2018,50000,33
-60,1036,Resolución,174/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-174-apn-aaip.pdf,27/12/2018,612400.00,34
-61,1037,Resolución,175/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-175-apn-aaip.pdf,27/12/2018,40000.00,35
-62,1038,Resolución,176/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-176-apn-aaip.pdf,27/12/2018,70000.00,36
-63,1039,Resolución,177/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-177-apn-aaip.pdf,27/12/2018,3000000.00,14
-64,1040,Resolución,178/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-178-apn-aaip.pdf,27/12/2018,105000,0
-65,1105,Resolución,126/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-67293758-apn-aaip_1.pdf,25/07/2019,10000,37
-66,1106,Resolución,137/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-137-apn-aaip_4.pdf,01/08/2019,65000.00,11
-67,1111,Resolución,155/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-155-apn-aaip_3.pdf,23/08/2019,60000.00,38
-68,1155,Resolución,81/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-81-apn-aaip_1.pdf,27/05/2019,81000.00,39
-69,1184,Resolución,93/18,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-93-apn-aaip_0.pdf,31/08/2018,25100.00,18
-70,1185,Resolución,237/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-237-apn-aaip.pdf,26/11/2019,2825113.00,40
-71,1186,Resolución,20/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-20-apn-aaip_2.pdf,12/02/2019,25100.00,2
-72,1187,Resolución,19/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-19-apn-aaip_0.pdf,12/02/2019,50000.00,2
-73,1188,Resolución,54/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-54-apn-aaip_0.pdf,12/04/2019,651026.00,6
-74,1189,Resolución,234/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-234-apn-aaip.pdf,26/11/2019,3000000.00,29
-75,1190,Resolución,235/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-235-apn-aaip.pdf,26/11/2019,3000000.00,9
-76,1195,Resolución,262/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-262-apn-aaip.pdf,23/12/2019,3000000.00,7
-77,1196,Resolución,257/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-257-apn-aaip.pdf,20/12/2019,3000000.00,0
-78,1208,Resolución,10/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-10-apn-aaip.pdf,13/01/2020,3000000.00,41
-79,1209,Resolución,13/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-13-apn-aaip.pdf,14/01/2020,3000000.00,7
-80,1210,Resolución,14/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-14-apn-aaip.pdf,14/01/2020,25000.00,7
-81,1217,Resolución,24/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-24-apn-aaip.pdf,30/01/2020,3000000.00,0
-82,1221,Resolución,33/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-33-apn-aaip.pdf,10/02/2020,3000000.00,7
-83,1231,Resolución,256/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-256-apn-aaip.pdf,19/12/2019,2125084.00,0
-84,1232,Resolución,41/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-41-apn-aaip.pdf,27/02/2020,1000.00,42
-85,1233,Resolución,43/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-43-apn-aaip_3.pdf,03/03/2020,90000.00,43
-86,1343,Resolución,246/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-108658594-apn-aaip_1.pdf,06/12/2019,65000.00,7
-87,1344,Resolución,248/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-109456775-apn-aaip_1.pdf,11/12/2019,30100.00,44
-88,1345,Resolución,112/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-60636406-apn-aaip.pdf,05/07/2019,25100.00,8
-89,1429,Resolución,238/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-238-apn-aaip.pdf,10/09/2020,3000000.00,45
-90,1451,Resolución,82/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-82-apn-aaip.pdf,23/04/2020,3000000.00,1
-91,1452,Resolución,86/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-86-apn-aaip.pdf,27/04/2020,3000000.00,45
-92,1453,Resolución,134/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-134-apn-aaip.pdf,08/06/2020,3000000.00,7
-93,1454,Resolución,135/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-135-apn-aaip.pdf,08/06/2020,3000000.00,7
-94,1455,Resolución,142/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-142-apn-aaip.pdf,17/06/2020,3000000.00,12
-95,1456,Resolución,166/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-166-apn-aaip.pdf,03/07/2020,3000000.00,46
-96,1457,Resolución,192/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-192-apn-aaip.pdf,24/07/2020,3000000.00,9
-97,1458,Resolución,66/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-66-apn-aaip.pdf,07/04/2020,3000000.00,0
-98,1459,Resolución,116/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-116-apn-aaip.pdf,22/05/2020,3000000.00,0
-99,1525,Resolución,128/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-128-apn-aaip.pdf,05/06/2020,3000000.00,9
-100,1526,Resolución,102/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-102-apn-aaip.pdf,14/05/2020,3000000.00,9
-101,1527,Resolución,137/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-137-apn-aaip.pdf,09/06/2020,3000000.00,9
-102,1532,Resolución,12/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-12-apn-dnpdp-aaip.pdf,12/02/2021,340000,47
-103,1534,Resolución,80/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-80-apn-aaip.pdf,22/04/2020,35100.00,48
-104,1537,Resolución,95/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-95-apn-aaip.pdf,07/05/2020,75000.00,0
-105,1541,Resolución,102/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-102-apn-aaip_0.pdf,14/05/2020,3000000.00,7
-106,1543,Resolución,111/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-111-apn-aaip.pdf,18/05/2020,3000000.00,7
-107,1549,Resolución,128/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-128-apn-aaip_0.pdf,05/06/2020,3000000.00,7
-108,1573,Resolución,146/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-146-apn-aaip_censurado.pdf,19/06/2020,35100.00,49
-109,1580,Resolución,155/2020,Datos Personales,Firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-155-apn-aaip_censurado.pdf,25/06/2020,25000.000,50
-110,1581,Resolución,158/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-158-apn-aaip_censurado.pdf,30/06/2020,115200.00,51
-111,1586,Resolución,167/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-167-apn-aaip.pdf,03/07/2020,3000000.00,29
-113,1596,Resolución,213/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-213-apn-aaip.pdf,12/08/2020,3000000.00,22
-114,1597,Resolución,228/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-228-apn-aaip.pdf,25/08/2020,3000000.00,45
-116,1683,Resolución,21/2021,Datos Personales,Firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-21-apn-dnpdpaaip_censurado.pdf,10/03/2021,105000.00,49
-117,1684,Resolución,32/2021,Datos Personales,Firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-32-apn-dnpdpaaip_censurado.pdf,31/03/2021,80000.00,52
-118,1747,Resolución,146/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-146-apn-dnpdpaaip_censurado.pdf,17/09/2021,290000.00,11
-119,1815,Resolución,74/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-74-2021-apn-dnpdp-aaip_1.pdf,18/06/2021,83000.00,53
-120,1816,Resolución,93/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-93-2021-apn-dnpdp-aaip._1.pdf,08/07/2021,140001,54
-121,1817,Resolución,100/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-100-apn-dnpdpaaip_1.pdf,20/07/2021,173000,55
-122,1820,Resolución,110/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-110-apn-dnpdpaaip_1.pdf,04/08/2021,65000.00,21
-123,1821,Resolución,17/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-17-apn-dnpdpaaip_censurado.pdf,01/03/2021,40000.00,21
-124,1822,Resolución,27/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-27-apn-dnpdpaaip.pdf,29/03/2021,105000,0
-125,1825,Resolución,44/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-44-apn-dnpdpaaip_censurado.pdf,20/04/2021,50000.00,56
-126,1827,Resolución,52/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-52-apn-dnpdpaaip_censurado.pdf,06/05/2021,30001,57
-127,1832,Resolución,67/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-67-apn-dnpdpaaip_censurado.pdf,31/05/2021,26001.00,29
-128,1834,Resolución,72/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-72-apn-dnpdpaaip_censurado.pdf,08/06/2021,65000.00,58
-129,1976,Resolución,44/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-44-apn-dnpdpaaip.pdf,11/02/2022,40001,59
-130,1977,Resolución,47/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-47-apn-dnpdpaaip.pdf,15/02/2022,60000,60
-131,1978,Resolución,12/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-12-apn-dnpdpaaip.pdf,11/01/2022,80001.00,61
-132,1979,Resolución,38/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-38-apn-dnpdpaaip.pdf,08/02/2022,80001,62
-133,1980,Resolución,39/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-39-apn-dnpdpaaip.pdf,09/02/2022,3000000,45
-134,1981,Resolución,54/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-54-apn-dnpdpaaip.pdf,21/02/2022,3000000,49
-135,1982,Resolución,140/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-140-apn-dnpdpaaip.pdf,14/09/2021,51002,63
-136,1983,Resolución,139/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-139-apn-dnpdpaaip_censurado.pdf,10/09/2021,75000,44
-137,1984,Resolución,136/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-136-apn-dnpdpaaip_censurado.pdf,09/09/2021,285000,0
-138,1986,Resolución,129/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-129-apn-dnpdpaaip_censurado.pdf,02/09/2021,25001,64
-139,1987,Resolución,128/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-128-apn-dnpdpaaip_censurado.pdf,31/08/2021,106002,65
-140,1988,Resolución,117/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-117-apn-dnpdpaaip.pdf,25/08/2021,51002.00,66
-141,1989,Resolución,118/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-118-apn-dnpdpaaip.pdf,25/08/2021,51002.00,67
-142,1990,Resolución,119/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-119-apn-dnpdpaaip.pdf,25/08/2021,51002.00,68
-143,1991,Resolución,121/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-121-apn-dnpdpaaip.pdf,25/08/2021,51002.00,69
-144,1992,Resolución,114/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-114-apn-dnpdpaaip.pdf,23/08/2021,26001.00,70
-145,1993,Resolución,116/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-116-apn-dnpdpaaip.pdf,24/08/2021,51002.00,71
-146,1994,Resolución,109/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-109-apn-dnpdpaaip_censurado.php_.pdf,04/08/2021,25001,72
-147,1995,Resolución,95/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-95-apn-dnpdpaaip_censurado.php_.pdf,21/07/2021,75000,73
-148,2008,Resolución,113/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-113-apn-dnpdpaaip.pdf,20/08/2021,105000,0
-149,2009,Resolución,69/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-69-apn-dnpdpaaip_censurado.pdf,09/03/2022,40000.00,74
-150,2010,Resolución,63/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-63-apn-dnpdpaaip_censurado.pdf,04/03/2022,40000,75
-151,2014,Resolución,24/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-24-apn-dnpdpaaip.pdf,27/01/2022,3080000,52
-152,2062,Resolución,281/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-281-apn-dnpdpaaip_censurado.pdf,30/12/2021,3000000,49
-153,2063,Resolución,81/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-40792648-apn-aaip.pdf,22/08/2018,3000000.00,0
-154,2064,Resolución,212/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-212-apn-dnpdpaaip.pdf,09/11/2021,51002,76
-155,2074,Resolución,203/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-203-apn-dnpdpaaip_censurado.pdf,02/11/2021,80000.00,21
-156,2075,Resolución,175/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-175-apn-dnpdpaaip.pdf,14/10/2021,51002.00,77
-157,2076,Resolución,161/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-161-apn-dnpdpaaip-tachas.pdf,29/09/2021,106002,78
-158,2077,Resolución,157/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-157-apn-dnpdpaaip-tachas.pdf,28/09/2021,125001,79
-159,2078,Resolución,126/2021,Datos Personales,Firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-126-apn-dnpdpaaip-tachas.pdf,27/08/2021,60000,80
-160,2079,Resolución,89/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-89-apn-dnpdpaaip-tachas.pdf,05/07/2021,60000.00,44
-161,2080,Resolución,78/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-78-apn-dnpdpaaip-tachas.pdf,23/06/2021,65000.00,81
-162,2081,Resolución,70/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-70-apn-dnpdpaaip-tachas.pdf,02/06/2021,60000.00,21
-163,2146,Resolución,50/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-50-apn-aaip_censurado.pdf,13/06/2022,3000000,82
-164,2147,Resolución,49/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-49-apn-aaip_censurado.pdf,13/06/2022,3000000,0
-165,2148,Resolución,55/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-55-apn-aaip_censurado.pdf,28/06/2022,110002,83
-166,2149,Resolución,39/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-39-apn-aaip_censurado.pdf,01/06/2022,3000000.00,7
-167,2150,Resolución,78/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-78-apn-aaip_cens.pdf,26/07/2022,80000,0
-168,2151,Resolución,69/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-69-apn-aaip_censurado_.pdf,15/07/2022,80001.00,84
-169,2177,Resolución,94/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-94-apn-aaip_censurada.pdf,04/08/2022,80001.00,85
-170,2181,Resolución,85/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-85-apn-aaip.pdf,29/07/2022,51002.00,86
-171,2193,Resolución,115/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-115-apn-aaip_censurada.pdf,26/08/2022,85000,44
-172,2200,Resolución,106/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-88625636-apn-aaip.pdf,24/08/2022,3000000.00,45
-173,2201,Resolución,68/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-68-apn-aaip_censurada.pdf,15/07/2022,26001.00,87
-174,2202,Resolución,105/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-105-apn-aaip_censurada.pdf,24/08/2022,3000000.00,1
-175,2204,Resolución,80/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-80-apn-aaipcensurada.pdf,26/07/2022,105000,44
-176,2205,Resolución,102/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-102-apn-aaip_censurada.pdf,16/08/2022,105000,44
-177,2206,Resolución,108/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-108-apn-aaip_censurada.pdf,25/08/2022,3000000.00,7
-178,2207,Resolución,79/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-79-apn-aaip_censurada_0.pdf,26/07/2022,106002,88
-179,2217,Resolución,112/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-112-apn-aaip.pdf,26/08/2022,3000000.00,0
-180,2223,Resolución,109/2022,Datos Personales,No firme,https://back.argentina.gob.ar/sites/default/files/rs-2022-109-apn-aaip.pdf,25/08/2022,3000000.00,29
-181,2224,Resolución,95/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-95-apn-aaip_censurada.pdf,04/08/2022,110002,89
-183,2240,Resolución,126/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-126-apn-aaip.pdf,19/09/2022,3000000.00,0
-184,2243,Resolución,137/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-137-apn-aaip_censurada.pdf,29/09/2022,105000,44
-185,2244,Resolución,136/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-136-apn-aaip.pdf,29/09/2022,3000000,45
-186,2245,Resolución,124/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-124-apn-aaip_censurada.pdf,16/09/2022,80001.00,84
-187,2246,Resolución,163/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-163-apn-aaip.pdf,12/10/2022,3000000,9
-188,2288,Resolución,191/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-191-apn-aaip.pdf,31/10/2022,3000000.00,0
-189,2289,Resolución,190/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-190-apn-aaip_tachada.pdf,31/10/2022,120001,90
-190,2302,Resolución,208/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-208-apn-aaip.pdf,09/11/2022,3000000.00,45
-191,2306,Resolución,220/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-220-apn-aaip.pdf,15/11/2022,3000000,1
-192,2307,Resolución,219/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-219-apn-aaip.pdf,15/11/2022,3000000.00,1
-193,2311,Resolución,121/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-121-apn-aaip_censurada.pdf,16/09/2022,211004,91
-194,2312,Resolución,138/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-138-apn-aaip_censurada.pdf,29/09/2022,50000,92
-195,2316,Resolución,192/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-192-apn-aaip_censurado.pdf,31/10/2022,106002,93
-196,2317,Resolución,203/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-203-apn-aaip_censurado.pdf,04/11/2022,26001.00,94
-197,2318,Resolución,162/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-162-apn-aaip.pdf,12/10/2022,3000000.00,45
-198,2319,Resolución,215/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-215-apn-aaip.pdf,14/11/2022,3000000,40
-199,2320,Resolución,202/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-202-apn-aaip_censurada.pdf,04/11/2022,65000,95
-200,2321,Resolución,201/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-201-apn-aaip_censurado.pdf,04/11/2022,105002,96
-201,2323,Resolución,187/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-187-apn-aaip_censurado.pdf,31/10/2022,3000000,9
-202,2324,Resolución,212/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-212-apn-aaip_censurada.pdf,14/11/2022,160000,7
-203,2325,Resolución,199/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-199-apn-aaip.pdf,04/11/2022,80000,97
-204,2362,Resolución,243/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-243-apn-aaip_v2.pdf,05/12/2022,26001,98
-205,2377,Resolución,242/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-242-apn-aaip.pdf,05/12/2022,106002,99
-206,2378,Resolución,241/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-241-apn-aaip.pdf,05/12/2022,26001.00,100
-207,2379,Resolución,200/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-200-apn-aaip.pdf,04/11/2022,161002,101
-208,2398,Resolución,270/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-270-apn-aaip.pdf,28/12/2022,106002,99
-209,2409,Resolución,269/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-269-apn-aaip.pdf,28/12/2022,3000000.00,29
-210,2410,Resolución,268/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-268-apn-aaip.pdf,28/12/2022,210004,102
-211,2411,Resolución,280/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-280-apn-aaip.pdf,29/12/2022,26001.00,103
-212,2412,Resolución,279/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-279-apn-aaip.pdf,29/12/2022,106002,104
-213,2414,Resolución,275/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-275-apn-aaip.pdf,29/12/2022,26001.00,1
-214,2415,Resolución,273/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-273-apn-aaip.pdf,29/12/2022,26001.00,1
-215,2416,Resolución,272/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-272-apn-aaip.pdf,29/12/2022,26001.00,105
-216,2503,Resolución,8/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-8-apn-aaip_disociada.pdf,06/01/2023,80000,106
-217,2504,Resolución,63/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-63-apn-aaip_disocida.pdf,03/04/2023,106002,107
-218,2507,Resolución,60/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-60-apn-aaip_disociada.pdf,03/04/2023,240003,108
-219,2526,Resolución,37/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-37-apn-aaip_disociada.pdf,10/02/2023,106002,109
-220,2556,Resolución,106/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-106-apn-aaip.pdf,30/05/2023,3000000,45
-221,2573,Resolución,115/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-115-apn-aaip_disociado.pdf,12/06/2023,3000000,7
-222,2580,Resolución,114/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-114-apn-aaip_disocida_.pdf ,12/06/2023,105000,44
-223,2621,Resolución,139/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-139-apn-aaip.pdf,25/07/2023,3000000,45
-224,2629,Resolución,138/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-138-apn-aaip.pdf,25/07/2023,50000,7
-225,2630,Resolución,137/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-137-apn-aaip.pdf,25/07/2023,25000.00,7
-226,2631,Resolución,136/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-136-apn-aaip.pdf,25/07/2023,3000000,110
-227,2632,Resolución,143/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-143-apn-aaip.pdf,27/07/2023,25000,0
-228,2633,Resolución,135/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-135-apn-aaip.pdf,25/07/2023,3000000.00,1
-230,2708,Resolución,199/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-199-apn-aaip.pdf,13/10/2023,25000,0
-231,2709,Resolución,175/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-175-apn-aaip_disociada.pdf,13/10/2023,285000,111
-232,2710,Resolución,154/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-154-apn-aaip_disociada.pdf,16/08/2023,185000.00,7
-233,2767,Resolución,215/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-215-apn-aaip.pdf,27/10/2023,25000.00,7
+0,928,Resolución,17/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-17-apn-aaip.pdf,12/02/2019,3000000.00,AMX ARGENTINA
+1,929,Resolución,18/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-18-apn-aaip.pdf,12/02/2019,80000.00,TELECOM ARGENTINA
+2,930,Resolución,19/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-19-apn-aaip.pdf,12/02/2019,50000.00,BRENSON AUTOS
+3,931,Resolución,20/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-20-apn-aaip.pdf,12/02/2019,25100.00,BRENSON AUTOS
+4,932,Resolución,21/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-21-apn-aaip.pdf,12/02/2019,3000000.00,AMX ARGENTINA
+5,933,Resolución,39/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-39-apn-aaip.pdf,07/03/2019,50000,COMPAÑÍA ARGENTINA DE MARKETING DIRECTO
+6,934,Resolución,52/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-52-apn-aaip.pdf,09/04/2019,375015.00,DILFER
+7,935,Resolución,53/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-53-apn-aaip.pdf,11/04/2019,50000.00,BANCO MACRO
+8,936,Resolución,54/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-54-apn-aaip.pdf,11/04/2019,651026.00,AUTO SPECIAL
+9,937,Resolución,55/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-55-apn-aaip.pdf,15/04/2019,3000000.00,TELEFONICA MOVILES ARGENTINA
+10,938,Resolución,56/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-56-apn-aaip.pdf,15/04/2019,3000000.00,TELECOM ARGENTINA
+11,939,Resolución,57/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-57-apn-aaip.pdf,15/04/2019,3000000.00,TELEFONICA MOVILES ARGENTINA
+12,940,Resolución,60/2019,Datos Personales,Firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-60-apn-aaip.pdf,22/04/2019,30100.00,COMÉTICOS AVÓN C.I.
+13,941,Resolución,67/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-67-apn-aaip.pdf,26/04/2019,3000000.00,TELEFONICA MOVILES ARGENTINA
+14,942,Resolución,89/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-89-apn-aaip.pdf,06/06/2019,105000.00,YAHOO! DE ARGENTINA
+15,976,Resolución,59/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-59-apn-aaip.pdf,09/08/2018,3000000.00,TELEFONICA MOVILES ARGENTINA
+16,977,Resolución,60/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-60-apn-aaip.pdf,09/08/2018,3000000.00,TELEFONICA MOVILES ARGENTINA
+17,978,Resolución,61/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-61-apn-aaip.pdf,09/08/2018,510020.00,CENCOSUD
+18,979,Resolución,62/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-62-apn-aaip.pdf,09/08/2018,3000000.00,AMX ARGENTINA
+19,980,Resolución,63/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-63-apn-aaip.pdf,09/08/2018,3000000.00,TELEFONICA MOVILES ARGENTINA
+20,981,Resolución,64/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-64-apn-aaip.pdf,09/08/2018,3000000.00,BBVA BANCO FRANCES
+21,982,Resolución,65/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-65-apn-aaip.pdf,09/08/2018,3000000.00,TELEFONICA MOVILES ARGENTINA
+22,983,Resolución,66/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-66-apn-aaip.pdf,09/08/2018,3000000.00,TELECOM ARGENTINA
+23,984,Resolución,67/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-67-apn-aaip.pdf,09/08/2018,3000000.00,TELEFÓNICA DE ARGENTINA
+24,986,Resolución,69/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-69-apn-aaip.pdf,10/08/2018,3000000.00,TELECOM ARGENTINA
+25,991,Resolución,79/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-79-apn-aaip.pdf,17/08/2018,3000000,COPYLE
+26,992,Resolución,80/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-80-apn-aaip.pdf,17/08/2018,3000000,COPYLE
+27,997,Resolución,89/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-89-apn-aaip.pdf,31/08/2018,90000.00,DIA ARGENTINA
+28,999,Resolución,91/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-91-apn-aaip.pdf,31/08/2018,70000.00,SERRA LIMA
+29,1000,Resolución,92/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-92-apn-aaip.pdf,31/08/2018,642300.00,GASTRO EXECUTIVE
+30,1001,Resolución,93/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-93-apn-aaip.pdf,31/08/2018,25100.00,TARABORELLI AUTOMOBILE
+31,1006,Resolución,102/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-102-apn-aaip.pdf,07/09/2018,50000.00,GENERALI ARGENTINA COMPAÑÍA DE SEGUROS
+32,1007,Resolución,103/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-103-apn-aaip.pdf,07/09/2018,60200.00,GIORGI AUTOMOTORES
+33,1008,Resolución,105/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-105-apn-aaip.pdf,11/09/2018,3000000.00,TELECOM ARGENTINA
+34,1009,Resolución,106/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-106-apn-aaip.pdf,13/09/2018,3000000.00,TELECOM ARGENTINA
+35,1010,Resolución,107/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-107-apn-aaip.pdf,13/09/2018,65000.00,BANCO DE GALICIA Y BUENOS AIRES
+36,1011,Resolución,108/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-108-apn-aaip.pdf,13/09/2018,3000000.00,AMX ARGENTINA
+37,1012,Resolución,109/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-109-apn-aaip.pdf,13/09/2018,3000000.00,TELEFONICA MOVILES ARGENTINA
+38,1013,Resolución,110/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-110-apn-aaip.pdf,14/09/2018,3000000.00,TELEFONICA MOVILES ARGENTINA
+39,1014,Resolución,114/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-114-apn-aaip.pdf,20/09/2018,3000000.00,TELECOM ARGENTINA
+40,1015,Resolución,115/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-115-apn-aaip.pdf,20/09/2018,80000.00,BANCO ITAU ARGENTINA
+41,1016,Resolución,116/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-116-apn-aaip.pdf,20/09/2018,3000000.00,TELEFONICA MOVILES ARGENTINA
+42,1017,Resolución,118/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-118-apn-aaip.pdf,20/09/2018,3000000.00,TELEFONICA MOVILES ARGENTINA
+43,1018,Resolución,122/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-122-apn-aaip.pdf,01/10/2018,3000000.00,TELEFONICA MOVILES ARGENTINA
+44,1019,Resolución,130/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-130-apn-aaip.pdf,10/10/2018,475019.00,PREVINCA
+45,1020,Resolución,138/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-138-apn-aaip.pdf,08/11/2018,80000.00,FIRST DATA CONO SUR
+46,1021,Resolución,139/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-139-apn-aaip.pdf,09/11/2018,537100.00,GRAMIT
+47,1022,Resolución,140/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-140-apn-aaip.pdf,09/11/2018,65000.00,COPYLE
+48,1023,Resolución,141/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-141-apn-aaip.pdf,09/11/2018,617200.00,MARINARO E HIJO
+49,1024,Resolución,144/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-144-apn-aaip.pdf,15/11/2018,80000,BBVA BANCO FRANCES
+50,1025,Resolución,152/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-152-apn-aaip.pdf,26/11/2018,130200.00,HAIR EVOLUTION
+51,1027,Resolución,155/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-155-apn-aaip.pdf,28/11/2018,105000.00,TELEFONICA MOVILES ARGENTINA
+52,1028,Resolución,156/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-156-apn-aaip.pdf,29/11/2018,662600.00,BANCO SUPERVIELLE
+53,1029,Resolución,157/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-157-apn-aaip.pdf,29/11/2018,60200.00,GIORGI AUTOMOTORES
+54,1030,Resolución,163/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-163-apn-aaip.pdf,13/12/2018,65000.00,ADT SECURITY SERVICES
+55,1031,Resolución,164/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-164-apn-aaip.pdf,13/12/2018,50000.00,INDUSTRIAL AND COMMERCIAL BANK OF CHINA
+56,1032,Resolución,165/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-165-apn-aaip.pdf,13/12/2018,60000,BANCO COMAFI
+57,1033,Resolución,169/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-169-apn-aaip.pdf,20/12/2018,70000.00,INC
+58,1034,Resolución,170/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-170-apn-aaip.pdf,20/12/2018,80000.00,TELECOM ARGENTINA
+59,1035,Resolución,171/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-171-apn-aaip.pdf,20/12/2018,50000,SUCURSAL DE CITIBANK N.A REPUBLICA ARGENTINA
+60,1036,Resolución,174/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-174-apn-aaip.pdf,27/12/2018,612400.00,CHEXA
+61,1037,Resolución,175/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-175-apn-aaip.pdf,27/12/2018,40000.00,ARTE GRAFICO EDITORIAL ARGENTINO
+62,1038,Resolución,176/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-176-apn-aaip.pdf,27/12/2018,70000.00,FINANDINO COMPAÑÍA FINANCIERA
+63,1039,Resolución,177/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-177-apn-aaip.pdf,27/12/2018,3000000.00,COPYLE
+64,1040,Resolución,178/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-178-apn-aaip.pdf,27/12/2018,105000,AMX ARGENTINA
+65,1105,Resolución,126/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-67293758-apn-aaip_1.pdf,25/07/2019,10000,POLICLINICO REGIONAL EVA PERON
+66,1106,Resolución,137/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-137-apn-aaip_4.pdf,01/08/2019,65000.00,CENCOSUD
+67,1111,Resolución,155/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-155-apn-aaip_3.pdf,23/08/2019,60000.00,ORGANIZACIÓN VERAZ COMERCIAL DE MANDATOS E INFORMES VERAZ CUIT N
+68,1155,Resolución,81/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-81-apn-aaip_1.pdf,27/05/2019,81000.00,MEGACAR
+69,1184,Resolución,93/18,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-93-apn-aaip_0.pdf,31/08/2018,25100.00,TARABORELLI AUTOMOBILE
+70,1185,Resolución,237/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-237-apn-aaip.pdf,26/11/2019,2825113.00,TARJETA NARANJA
+71,1186,Resolución,20/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-20-apn-aaip_2.pdf,12/02/2019,25100.00,BRENSON AUTOS
+72,1187,Resolución,19/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-19-apn-aaip_0.pdf,12/02/2019,50000.00,BRENSON AUTOS
+73,1188,Resolución,54/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-54-apn-aaip_0.pdf,12/04/2019,651026.00,AUTO SPECIAL
+74,1189,Resolución,234/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-234-apn-aaip.pdf,26/11/2019,3000000.00,ADT SECURITY SERVICES
+75,1190,Resolución,235/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-235-apn-aaip.pdf,26/11/2019,3000000.00,TELEFONICA MOVILES ARGENTINA
+76,1195,Resolución,262/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-262-apn-aaip.pdf,23/12/2019,3000000.00,TELEFONICA MOVILES ARGENTINA
+77,1196,Resolución,257/19,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-257-apn-aaip.pdf,20/12/2019,3000000.00,AMX ARGENTINA
+78,1208,Resolución,10/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-10-apn-aaip.pdf,13/01/2020,3000000.00,SUCURSAL CITIBANK N.A. REPUBLICA ARGENTINA
+79,1209,Resolución,13/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-13-apn-aaip.pdf,14/01/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+80,1210,Resolución,14/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-14-apn-aaip.pdf,14/01/2020,25000.00,TELEFONICA MOVILES ARGENTINA
+81,1217,Resolución,24/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-24-apn-aaip.pdf,30/01/2020,3000000.00,AMX ARGENTINA
+82,1221,Resolución,33/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-33-apn-aaip.pdf,10/02/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+83,1231,Resolución,256/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-256-apn-aaip.pdf,19/12/2019,2125084.00,AMX ARGENTINA
+84,1232,Resolución,41/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-41-apn-aaip.pdf,27/02/2020,1000.00,"[n]o inscribir la base de datos de carácter personal en el registro correspondiente, cuando haya sido requerido para ello por la DIRECCION NACIONAL DE PROTECCION DE DATOS PERSONALES"
+85,1233,Resolución,43/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-43-apn-aaip_3.pdf,03/03/2020,90000.00,ORGANIZACIÓN VERAZ COMERCIAL DE MANDATOS E INFORMES VERAZ CUIT N A L N A P C A B A
+86,1343,Resolución,246/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-108658594-apn-aaip_1.pdf,06/12/2019,65000.00,TELEFONICA MOVILES ARGENTINA
+87,1344,Resolución,248/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-109456775-apn-aaip_1.pdf,11/12/2019,30100.00,BANCO PATAGONIA
+88,1345,Resolución,112/2019,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2019-60636406-apn-aaip.pdf,05/07/2019,25100.00,COMÉTICOS AVÓN C.I.
+89,1429,Resolución,238/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-238-apn-aaip.pdf,10/09/2020,3000000.00,DIRECTV ARGENTINA
+90,1451,Resolución,82/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-82-apn-aaip.pdf,23/04/2020,3000000.00,TELECOM ARGENTINA
+91,1452,Resolución,86/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-86-apn-aaip.pdf,27/04/2020,3000000.00,DIRECTV ARGENTINA
+92,1453,Resolución,134/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-134-apn-aaip.pdf,08/06/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+93,1454,Resolución,135/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-135-apn-aaip.pdf,08/06/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+94,1455,Resolución,142/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-142-apn-aaip.pdf,17/06/2020,3000000.00,BBVA BANCO FRANCES
+95,1456,Resolución,166/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-166-apn-aaip.pdf,03/07/2020,3000000.00,HSBC BANK ARGENTINA
+96,1457,Resolución,192/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-192-apn-aaip.pdf,24/07/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+97,1458,Resolución,66/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-66-apn-aaip.pdf,07/04/2020,3000000.00,AMX ARGENTINA
+98,1459,Resolución,116/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-116-apn-aaip.pdf,22/05/2020,3000000.00,AMX ARGENTINA
+99,1525,Resolución,128/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-128-apn-aaip.pdf,05/06/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+100,1526,Resolución,102/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-102-apn-aaip.pdf,14/05/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+101,1527,Resolución,137/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-137-apn-aaip.pdf,09/06/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+102,1532,Resolución,12/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-12-apn-dnpdp-aaip.pdf,12/02/2021,340000,ENTREGA CREATIVA
+103,1534,Resolución,80/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-80-apn-aaip.pdf,22/04/2020,35100.00,TOTAL SUPPORT
+104,1537,Resolución,95/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-95-apn-aaip.pdf,07/05/2020,75000.00,AMX ARGENTINA
+105,1541,Resolución,102/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-102-apn-aaip_0.pdf,14/05/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+106,1543,Resolución,111/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-111-apn-aaip.pdf,18/05/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+107,1549,Resolución,128/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-128-apn-aaip_0.pdf,05/06/2020,3000000.00,TELEFONICA MOVILES ARGENTINA
+108,1573,Resolución,146/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-146-apn-aaip_censurado.pdf,19/06/2020,35100.00,BANCO SANTANDER RIO
+109,1580,Resolución,155/2020,Datos Personales,Firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-155-apn-aaip_censurado.pdf,25/06/2020,25000.000,FIDEICOMISO FINANCIERO PRIVADO FIRACOL III GPS FIDUCIARIA
+110,1581,Resolución,158/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-158-apn-aaip_censurado.pdf,30/06/2020,115200.00,BANCO DE SERVICIOS FINANCIEROS TARJETA CARREFOUR
+111,1586,Resolución,167/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-167-apn-aaip.pdf,03/07/2020,3000000.00,ADT SECURITY SERVICES
+113,1596,Resolución,213/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-213-apn-aaip.pdf,12/08/2020,3000000.00,BANCO ITAU ARGENTINA
+114,1597,Resolución,228/2020,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2020-228-apn-aaip.pdf,25/08/2020,3000000.00,DIRECTV ARGENTINA
+116,1683,Resolución,21/2021,Datos Personales,Firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-21-apn-dnpdpaaip_censurado.pdf,10/03/2021,105000.00,BANCO SANTANDER RIO
+117,1684,Resolución,32/2021,Datos Personales,Firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-32-apn-dnpdpaaip_censurado.pdf,31/03/2021,80000.00,RAPPI ARG
+118,1747,Resolución,146/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-146-apn-dnpdpaaip_censurado.pdf,17/09/2021,290000.00,CENCOSUD
+119,1815,Resolución,74/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-74-2021-apn-dnpdp-aaip_1.pdf,18/06/2021,83000.00,CENTRO ODONTOLÓGICO GALDENT
+120,1816,Resolución,93/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-93-2021-apn-dnpdp-aaip._1.pdf,08/07/2021,140001,C P P A S
+121,1817,Resolución,100/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-100-apn-dnpdpaaip_1.pdf,20/07/2021,173000,BIOBEHAVIORAL INSTITUTE
+122,1820,Resolución,110/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-110-apn-dnpdpaaip_1.pdf,04/08/2021,65000.00,BANCO DE GALICIA Y BUENOS AIRES
+123,1821,Resolución,17/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-17-apn-dnpdpaaip_censurado.pdf,01/03/2021,40000.00,BANCO DE GALICIA Y BUENOS AIRES
+124,1822,Resolución,27/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-27-apn-dnpdpaaip.pdf,29/03/2021,105000,AMX ARGENTINA
+125,1825,Resolución,44/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-44-apn-dnpdpaaip_censurado.pdf,20/04/2021,50000.00,ARZOBISPADO DE BUENOS AIRES
+126,1827,Resolución,52/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-52-apn-dnpdpaaip_censurado.pdf,06/05/2021,30001,L A C
+127,1832,Resolución,67/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-67-apn-dnpdpaaip_censurado.pdf,31/05/2021,26001.00,ADT SECURITY SERVICES
+128,1834,Resolución,72/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-72-apn-dnpdpaaip_censurado.pdf,08/06/2021,65000.00,COSMETICOS AVON SACI
+129,1976,Resolución,44/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-44-apn-dnpdpaaip.pdf,11/02/2022,40001,COPPEL
+130,1977,Resolución,47/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-47-apn-dnpdpaaip.pdf,15/02/2022,60000,CREDITIA
+131,1978,Resolución,12/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-12-apn-dnpdpaaip.pdf,11/01/2022,80001.00,EMPRESA DISTRIBUIDORA SUR EDESUR
+132,1979,Resolución,38/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-38-apn-dnpdpaaip.pdf,08/02/2022,80001,CLÍNICA DEL SOL SAN TIMOTEO
+133,1980,Resolución,39/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-39-apn-dnpdpaaip.pdf,09/02/2022,3000000,DIRECTV ARGENTINA
+134,1981,Resolución,54/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-54-apn-dnpdpaaip.pdf,21/02/2022,3000000,BANCO SANTANDER RIO
+135,1982,Resolución,140/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-140-apn-dnpdpaaip.pdf,14/09/2021,51002,CLUB ATLÉTICO HURACÁN
+136,1983,Resolución,139/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-139-apn-dnpdpaaip_censurado.pdf,10/09/2021,75000,BANCO PATAGONIA
+137,1984,Resolución,136/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-136-apn-dnpdpaaip_censurado.pdf,09/09/2021,285000,AMX ARGENTINA
+138,1986,Resolución,129/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-129-apn-dnpdpaaip_censurado.pdf,02/09/2021,25001,SMART SALE
+139,1987,Resolución,128/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-128-apn-dnpdpaaip_censurado.pdf,31/08/2021,106002,CREDITIA FIDEICOMISO FINANCIERO
+140,1988,Resolución,117/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-117-apn-dnpdpaaip.pdf,25/08/2021,51002.00,CLUB ATLÉTICO VÉLEZ SARSFIELD ASOCIACIÓN CIVIL
+141,1989,Resolución,118/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-118-apn-dnpdpaaip.pdf,25/08/2021,51002.00,CLUB ATLÉTICO INDEPENDIENTE
+142,1990,Resolución,119/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-119-apn-dnpdpaaip.pdf,25/08/2021,51002.00,CLUB SOCIAL Y DEPORTIVO DEFENSA Y JUSTICIA
+143,1991,Resolución,121/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-121-apn-dnpdpaaip.pdf,25/08/2021,51002.00,CLUB ATLÉTICO TUCUMÁN
+144,1992,Resolución,114/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-114-apn-dnpdpaaip.pdf,23/08/2021,26001.00,CLUB ATLÉTICO BOCA JUNIORS ASOCIACIÓN CIVIL
+145,1993,Resolución,116/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-116-apn-dnpdpaaip.pdf,24/08/2021,51002.00,CLUB ATLÉTICO LANÚS
+146,1994,Resolución,109/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-109-apn-dnpdpaaip_censurado.php_.pdf,04/08/2021,25001,GRUPO GALLERIES REVIEW
+147,1995,Resolución,95/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-95-apn-dnpdpaaip_censurado.php_.pdf,21/07/2021,75000,C P J
+148,2008,Resolución,113/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-113-apn-dnpdpaaip.pdf,20/08/2021,105000,AMX ARGENTINA
+149,2009,Resolución,69/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-69-apn-dnpdpaaip_censurado.pdf,09/03/2022,40000.00,SWISS MEDICAL ART
+150,2010,Resolución,63/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-63-apn-dnpdpaaip_censurado.pdf,04/03/2022,40000,IUDÚ COMPAÑÍA FINANCIERA
+151,2014,Resolución,24/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-24-apn-dnpdpaaip.pdf,27/01/2022,3080000,RAPPI ARG
+152,2062,Resolución,281/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-281-apn-dnpdpaaip_censurado.pdf,30/12/2021,3000000,BANCO SANTANDER RIO
+153,2063,Resolución,81/2018,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2018-40792648-apn-aaip.pdf,22/08/2018,3000000.00,AMX ARGENTINA
+154,2064,Resolución,212/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-212-apn-dnpdpaaip.pdf,09/11/2021,51002,CLUB ATLÉTICO UNIÓN
+155,2074,Resolución,203/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-203-apn-dnpdpaaip_censurado.pdf,02/11/2021,80000.00,BANCO DE GALICIA Y BUENOS AIRES
+156,2075,Resolución,175/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2021-175-apn-dnpdpaaip.pdf,14/10/2021,51002.00,CLUB ATLÉTICO TIGRE
+157,2076,Resolución,161/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-161-apn-dnpdpaaip-tachas.pdf,29/09/2021,106002,ROTUI PATAGONIA GROUP
+158,2077,Resolución,157/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-157-apn-dnpdpaaip-tachas.pdf,28/09/2021,125001,SANATORIO AMTA
+159,2078,Resolución,126/2021,Datos Personales,Firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-126-apn-dnpdpaaip-tachas.pdf,27/08/2021,60000,ARTE GRÁFICO EDITORIAL ARGENTINO
+160,2079,Resolución,89/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-89-apn-dnpdpaaip-tachas.pdf,05/07/2021,60000.00,BANCO PATAGONIA
+161,2080,Resolución,78/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-78-apn-dnpdpaaip-tachas.pdf,23/06/2021,65000.00,CITIBANK NA
+162,2081,Resolución,70/2021,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/resol-2021-70-apn-dnpdpaaip-tachas.pdf,02/06/2021,60000.00,BANCO DE GALICIA Y BUENOS AIRES
+163,2146,Resolución,50/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-50-apn-aaip_censurado.pdf,13/06/2022,3000000,PROSEGUR ACTIVA ARGENTINA
+164,2147,Resolución,49/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-49-apn-aaip_censurado.pdf,13/06/2022,3000000,AMX ARGENTINA
+165,2148,Resolución,55/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-55-apn-aaip_censurado.pdf,28/06/2022,110002,INSTITUTO ELSA PEREZ
+166,2149,Resolución,39/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-39-apn-aaip_censurado.pdf,01/06/2022,3000000.00,TELEFONICA MOVILES ARGENTINA
+167,2150,Resolución,78/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-78-apn-aaip_cens.pdf,26/07/2022,80000,AMX ARGENTINA
+168,2151,Resolución,69/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-69-apn-aaip_censurado_.pdf,15/07/2022,80001.00,COMAFI SOLUCIONES
+169,2177,Resolución,94/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-94-apn-aaip_censurada.pdf,04/08/2022,80001.00,FORENSA
+170,2181,Resolución,85/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-85-apn-aaip.pdf,29/07/2022,51002.00,CLUB ATLÉTICO NEWELLS OLD BOYS
+171,2193,Resolución,115/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-115-apn-aaip_censurada.pdf,26/08/2022,85000,BANCO PATAGONIA
+172,2200,Resolución,106/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-88625636-apn-aaip.pdf,24/08/2022,3000000.00,DIRECTV ARGENTINA
+173,2201,Resolución,68/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-68-apn-aaip_censurada.pdf,15/07/2022,26001.00,FAMILIA TERAPÉUTICA DE HOSPITAL AT HOME
+174,2202,Resolución,105/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-105-apn-aaip_censurada.pdf,24/08/2022,3000000.00,TELECOM ARGENTINA
+175,2204,Resolución,80/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-80-apn-aaipcensurada.pdf,26/07/2022,105000,BANCO PATAGONIA
+176,2205,Resolución,102/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-102-apn-aaip_censurada.pdf,16/08/2022,105000,BANCO PATAGONIA
+177,2206,Resolución,108/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-108-apn-aaip_censurada.pdf,25/08/2022,3000000.00,TELEFONICA MOVILES ARGENTINA
+178,2207,Resolución,79/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-79-apn-aaip_censurada_0.pdf,26/07/2022,106002,COMPAÑÍA DE MEDIOS DIGITALES
+179,2217,Resolución,112/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-112-apn-aaip.pdf,26/08/2022,3000000.00,AMX ARGENTINA
+180,2223,Resolución,109/2022,Datos Personales,No firme,https://back.argentina.gob.ar/sites/default/files/rs-2022-109-apn-aaip.pdf,25/08/2022,3000000.00,ADT SECURITY SERVICES
+181,2224,Resolución,95/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-95-apn-aaip_censurada.pdf,04/08/2022,110002,"Mutual de Jubilados, Retirados y Pensionados Provinciales"
+183,2240,Resolución,126/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-126-apn-aaip.pdf,19/09/2022,3000000.00,AMX ARGENTINA
+184,2243,Resolución,137/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-137-apn-aaip_censurada.pdf,29/09/2022,105000,BANCO PATAGONIA
+185,2244,Resolución,136/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-136-apn-aaip.pdf,29/09/2022,3000000,DIRECTV ARGENTINA
+186,2245,Resolución,124/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-124-apn-aaip_censurada.pdf,16/09/2022,80001.00,COMAFI SOLUCIONES
+187,2246,Resolución,163/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-163-apn-aaip.pdf,12/10/2022,3000000,TELEFONICA MOVILES ARGENTINA
+188,2288,Resolución,191/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-191-apn-aaip.pdf,31/10/2022,3000000.00,AMX ARGENTINA
+189,2289,Resolución,190/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-190-apn-aaip_tachada.pdf,31/10/2022,120001,AVANTRIPCOM
+190,2302,Resolución,208/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-208-apn-aaip.pdf,09/11/2022,3000000.00,DIRECTV ARGENTINA
+191,2306,Resolución,220/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-220-apn-aaip.pdf,15/11/2022,3000000,TELECOM ARGENTINA
+192,2307,Resolución,219/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-219-apn-aaip.pdf,15/11/2022,3000000.00,TELECOM ARGENTINA
+193,2311,Resolución,121/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-121-apn-aaip_censurada.pdf,16/09/2022,211004,FRANCISCO MONTES SACIF
+194,2312,Resolución,138/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-138-apn-aaip_censurada.pdf,29/09/2022,50000,OBRA SOCIAL DEL PERSONAL DE EDIFICIOS DE RENTA Y HORIZONTAL
+195,2316,Resolución,192/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-192-apn-aaip_censurado.pdf,31/10/2022,106002,AGROFINAR
+196,2317,Resolución,203/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-203-apn-aaip_censurado.pdf,04/11/2022,26001.00,ROMBO COMPAÑÍA FINANCIERA UNA
+197,2318,Resolución,162/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-162-apn-aaip.pdf,12/10/2022,3000000.00,DIRECTV ARGENTINA
+198,2319,Resolución,215/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-215-apn-aaip.pdf,14/11/2022,3000000,TARJETA NARANJA
+199,2320,Resolución,202/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-202-apn-aaip_censurada.pdf,04/11/2022,65000,SISTEDH
+200,2321,Resolución,201/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-201-apn-aaip_censurado.pdf,04/11/2022,105002,BFB SOLUCIONES CIENTO CINCO MIL DOS
+201,2323,Resolución,187/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-187-apn-aaip_censurado.pdf,31/10/2022,3000000,TELEFONICA MOVILES ARGENTINA
+202,2324,Resolución,212/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-212-apn-aaip_censurada.pdf,14/11/2022,160000,TELEFONICA MOVILES ARGENTINA
+203,2325,Resolución,199/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-199-apn-aaip.pdf,04/11/2022,80000,S P A RODRIGUEZ
+204,2362,Resolución,243/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-243-apn-aaip_v2.pdf,05/12/2022,26001,BANCO COLUMBIA
+205,2377,Resolución,242/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-242-apn-aaip.pdf,05/12/2022,106002,CREDIMINUTO
+206,2378,Resolución,241/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-241-apn-aaip.pdf,05/12/2022,26001.00,TELECENTRO
+207,2379,Resolución,200/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-200-apn-aaip.pdf,04/11/2022,161002,RESERVA DEL NORTE
+208,2398,Resolución,270/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-270-apn-aaip.pdf,28/12/2022,106002,CREDIMINUTO
+209,2409,Resolución,269/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-269-apn-aaip.pdf,28/12/2022,3000000.00,ADT SECURITY SERVICES
+210,2410,Resolución,268/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-268-apn-aaip.pdf,28/12/2022,210004,BARRIO CERRADO DICIEMBRE
+211,2411,Resolución,280/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-280-apn-aaip.pdf,29/12/2022,26001.00,BANCO BBVA ARGENTINA
+212,2412,Resolución,279/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-279-apn-aaip.pdf,29/12/2022,106002,FIDEICOMISO FINANCIERO PRIVADO GREEN LIGHT
+213,2414,Resolución,275/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-275-apn-aaip.pdf,29/12/2022,26001.00,TELECOM ARGENTINA
+214,2415,Resolución,273/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-273-apn-aaip.pdf,29/12/2022,26001.00,TELECOM ARGENTINA
+215,2416,Resolución,272/2022,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2022-272-apn-aaip.pdf,29/12/2022,26001.00,FIDEICOMISO FINANCIERO PRIVADO FRANKEL
+216,2503,Resolución,8/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-8-apn-aaip_disociada.pdf,06/01/2023,80000,SWISS MEDICAL
+217,2504,Resolución,63/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-63-apn-aaip_disocida.pdf,03/04/2023,106002,FERNANDO ANGELONI
+218,2507,Resolución,60/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-60-apn-aaip_disociada.pdf,03/04/2023,240003,OBRA SOCIAL DE LA ACTIVIDAD DE SEGUROS REASEGUROS CAPITALIZACIÓN Y AHORRO Y PRÉSTAMOS PARA LA VIVIENDA
+219,2526,Resolución,37/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-37-apn-aaip_disociada.pdf,10/02/2023,106002,Asociación Mutual Obreros Y Empleados Municipales de la República Argentina
+220,2556,Resolución,106/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-106-apn-aaip.pdf,30/05/2023,3000000,DIRECTV ARGENTINA
+221,2573,Resolución,115/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-115-apn-aaip_disociado.pdf,12/06/2023,3000000,TELEFONICA MOVILES ARGENTINA
+222,2580,Resolución,114/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-114-apn-aaip_disocida_.pdf ,12/06/2023,105000,BANCO PATAGONIA
+223,2621,Resolución,139/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-139-apn-aaip.pdf,25/07/2023,3000000,DIRECTV ARGENTINA
+224,2629,Resolución,138/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-138-apn-aaip.pdf,25/07/2023,50000,TELEFÓNICA MÓVILES ARGENTINA
+225,2630,Resolución,137/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-137-apn-aaip.pdf,25/07/2023,25000.00,TELEFONICA MOVILES ARGENTINA
+226,2631,Resolución,136/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-136-apn-aaip.pdf,25/07/2023,3000000,TELEFÓNICA MOVILES ARGENTINA
+227,2632,Resolución,143/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-143-apn-aaip.pdf,27/07/2023,25000,AMX ARGENTINA
+228,2633,Resolución,135/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-135-apn-aaip.pdf,25/07/2023,3000000.00,TELECOM ARGENTINA
+230,2708,Resolución,199/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-199-apn-aaip.pdf,13/10/2023,25000,AMX ARGENTINA
+231,2709,Resolución,175/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-175-apn-aaip_disociada.pdf,13/10/2023,285000,TRAVEL ROCK
+232,2710,Resolución,154/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-154-apn-aaip_disociada.pdf,16/08/2023,185000.00,TELEFONICA MOVILES ARGENTINA
+233,2766,Resolución,215/2023,Datos Personales,No firme,https://www.argentina.gob.ar/sites/default/files/rs-2023-215-apn-aaip.pdf,27/10/2023,25000.00,TELEFÓNICA MÓVILES ARGENTINA

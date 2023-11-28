@@ -33,16 +33,20 @@ Con el propósito de proporcionar información actualizada sobre las multas impu
 
 En este gráfico se pueden observar los 10 países que recibieron más multas. El primer punto que destaca es que España acumula la mayor cantidad de multas, llegando casi a 800, lo que representa más del doble que su seguidor más cercano. Sin embargo, cuando se realiza una agrupación por el monto total de la multa aplicada, encontramos que Irlanda encabeza la lista, al mismo tiempo que no es uno de los países que más multas individuales ha obtenido.
 
+
+## ¿A que se debe esto?
 Este comportamiento lo atribuimos a varios factores que se hacen evidentes al observar cuáles son los tipos de empresas que reciben multas en estos países.
-
----
-
-![Imagen_3](images/Industrias-españolas-multadas.png)
-![Imagen_4](images/Industrias-irlandesas-multadas.png)
 
 La media de las sanciones aplicadas en España no excede los 100.000 euros y, por norma general, se imponen debido a que la empresa en cuestión no tiene las bases legales para procesar los datos que ha recogido. 
 
 Por otra parte, en Irlanda, la tasa impositiva en el impuesto de sociedades es del 12.5%, la más baja de la Unión Europea. Esto no es un dato menor, ya que, como veremos más adelante, Irlanda es el asiento principal de las mayores empresas de redes sociales en el continente europeo, **particularmente de Meta**.
+
+
+
+
+![Imagen_3](images/Industrias-españolas-multadas.png)
+![Imagen_4](images/Industrias-irlandesas-multadas.png)
+
 
 [Carga Impositiva en Irlanda](https://expansion.mx/tecnologia/2021/06/28/por-que-irlanda-es-tan-importante-para-las-tecnologicas)
 
@@ -92,9 +96,6 @@ Si comparamos el monto de esta única sanción con el resto, observamos lo desor
 
 ![Imagen_6.5](images/empresas-mas-afectadas.png)
 
-Vemos que 
-
-
 
 # Industrias más Sancionadas
 
@@ -138,7 +139,6 @@ Además, la Agencia de Acceso a la Información Pública brinda asesoramiento a 
 
 En este momento, existen 230 expedientes que penalizan algunos de los principios y directrices establecidos por esta ley. De estos, solo 5 cuentan con una sentencia firme, mientras que los 225 restantes están en proceso de revisión por la autoridad competente. Por esta razón, he decidido anonimizar el nombre de las empresas, asignándoles únicamente un número identificativo.
 
-Considero que esta medida es crucial, ya que, aunque el principio de "presunción de inocencia" es un derecho constitucional que se aplica a las personas físicas en el ámbito del derecho penal (estableciendo que todos son inocentes hasta que se demuestre lo contrario), no contar con una sentencia firme y tener aún en revisión los casos individuales hace injusto hacer públicos los nombres de las empresas. A pesar de que los datos que utilicé son de acceso público, estas empresas son utilizadas por muchos de nosotros como usuarios, y nombrarlas públicamente en este momento podría resultar injusto.
 
 
 # ¿Cuales son la empresas mas multadas?
@@ -147,7 +147,7 @@ Considero que esta medida es crucial, ya que, aunque el principio de "presunció
 
 ![Imagen_12](images/empresas-mas-multadas-v-total.png)
 
-En estos gráficos, observamos el monto que representan las multas aplicadas a las empresas más sancionadas por la ley. Del total de **$270.308.680,** se concentran **$234.983.300** solo en las 10 empresas más multadas. Esto equivale a más del 85% del total de multas, las cuales son asumidas únicamente por estas 10 empresas. Aunque los datos están anonimizados, es importante señalar que en este ranking se incluyen solo tres tipos de empresas.
+En estos gráficos, observamos el monto que representan las multas aplicadas a las empresas más sancionadas por la ley. Del total de **$270.308.680,** se concentran **$238.068.300** solo en las 10 empresas más multadas. Esto equivale a casi el 90% del total de multas, las cuales son asumidas únicamente por estas 10 empresas. Aunque los datos están anonimizados, es importante señalar que en este ranking se incluyen solo tres tipos de empresas.
 
 
 - Empresas de telecomunicaciones y proveedoras de servicios de conectividad
