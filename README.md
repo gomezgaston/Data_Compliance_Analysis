@@ -147,7 +147,7 @@ En este momento, existen 230 expedientes que penalizan algunos de los principios
 
 ![Imagen_12](images/empresas-mas-multadas-v-total.png)
 
-En estos gráficos, observamos el monto que representan las multas aplicadas a las empresas más sancionadas por la ley. Del total de **$270.308.680,** se concentran **$238.068.300** solo en las 10 empresas más multadas. Esto equivale a casi el 90% del total de multas, las cuales son asumidas únicamente por estas 10 empresas. Aunque los datos están anonimizados, es importante señalar que en este ranking se incluyen solo tres tipos de empresas.
+En estos gráficos, observamos el monto que representan las multas aplicadas a las empresas más sancionadas por la ley. Del total de **$270.308.680,** se concentran **$238.068.300** solo en las 10 empresas más multadas. Esto equivale a casi el 90% del total de multas, las cuales son asumidas únicamente por estas 10 empresas. Es importante señalar que en este ranking se incluyen solo tres tipos de empresas.
 
 
 - Empresas de telecomunicaciones y proveedoras de servicios de conectividad
