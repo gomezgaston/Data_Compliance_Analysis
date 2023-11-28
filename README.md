@@ -137,7 +137,7 @@ La Agencia de Acceso a la Información Pública (AAIP) en Argentina es un organi
 Además, la Agencia de Acceso a la Información Pública brinda asesoramiento a los organismos del Poder Ejecutivo Nacional para asegurar que cumplan con las disposiciones de la ley en cuanto a la transparencia y el acceso a la información. También actúa como un organismo de revisión en caso de que existan reclamos o denuncias por parte de personas que consideren que se ha limitado indebidamente su derecho de acceso a la información pública.
 
 
-En este momento, existen 230 expedientes que penalizan algunos de los principios y directrices establecidos por esta ley. De estos, solo 5 cuentan con una sentencia firme, mientras que los 225 restantes están en proceso de revisión por la autoridad competente. Por esta razón, he decidido anonimizar el nombre de las empresas, asignándoles únicamente un número identificativo.
+En este momento, existen 230 expedientes que penalizan algunos de los principios y directrices establecidos por esta ley. De estos, solo 5 cuentan con una sentencia firme, mientras que los 225 restantes están en proceso de revisión por la autoridad competente.
 
 
 
